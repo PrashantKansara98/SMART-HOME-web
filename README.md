@@ -23,8 +23,8 @@ Housipsm
 - Device ON/OFF toggling
 
 ## 🛠 Tech Stack
-- HTML/CSS or React (depends on your build)
-- Optional: Tailwind CSS, Vue, Angular, etc.
+-Figma
+
 
 ![Desktop - 2](https://github.com/user-attachments/assets/6465fee6-f86e-4835-b88b-fa1665b95f90)
 ![Desktop - 1](https://github.com/user-attachments/assets/794a8911-093d-4289-be22-621f40b47fb6)
